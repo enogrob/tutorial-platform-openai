@@ -16,7 +16,7 @@ Learn everything you need to about the subject of this `Tutorial` project.
 ## Topics
 
 GET STARTED
-[ ] [Introduction](https://platform.openai.com/docs/introduction)
+[x] [Introduction](https://platform.openai.com/docs/introduction)
 [ ] [Quickstart](https://platform.openai.com/docs/quickstart)
 [ ] [Libraries](https://platform.openai.com/docs/libraries)
 [ ] [Models](https://platform.openai.com/docs/models)
